@@ -1,0 +1,47 @@
+header{
+	 background-color: gray;
+	 padding: 1px;
+    
+}
+ul{
+	list-style: none;
+  }
+li{
+	display: inline;
+	margin: 100px;
+	}
+li a{
+	
+    text-decoration: none;
+	color: white;
+	font-family: Inter;
+}
+li a:hover {
+	 color: red;
+}
+hr{
+    border-style: none;
+}
+img{ border-radius: 75%;
+  	 display: block;
+     margin-left: auto;
+     margin-right:auto;
+    	 
+   }
+.speacil{
+	font-family: Tangerine;
+	font-size: 100px;
+	margin-block-end: 0em;
+}   
+#lp_pl{
+	font-family: Inter;
+     margin-block-start: 0em; }
+#fstyle{
+	font-family: Chakra+Petch;
+   }
+footer{
+	background-color: gray;
+	color: white;
+	padding: 1px;
+	text-align: center;  
+}
